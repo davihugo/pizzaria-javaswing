@@ -20,4 +20,8 @@ public class Cliente extends Pessoa {
 
     public void setNome(String text) {
     }
+
+    public void setCpf(String cpf) {
+        this.cpf = cpf;
+    }
 }

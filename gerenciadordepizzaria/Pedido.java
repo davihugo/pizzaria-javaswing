@@ -51,4 +51,7 @@ public class Pedido {
     public String getFormaPagamento() {
         return pagamento;
     }
+
+    public void setPizza(Pizza novaPizzaObj) {
+    }
 }
